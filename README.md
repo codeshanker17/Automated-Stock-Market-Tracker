@@ -3,4 +3,6 @@ The project is a Python-based automated trading simulation that utilizes histori
 
 I developed this project as my semester's industrial training and i learnt about buying, selling of shares, managing portfolio, etc.
 
+Here is the example output:
+
 ![Stock Output](https://github.com/user-attachments/assets/876d6af0-c5ad-4e60-80d2-584c88d98e99)
